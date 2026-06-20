@@ -1,5 +1,4 @@
-here.. 
-Mm/#!/bin/bash
+#!/bin/bash
 # ============================================================
 # EHESPO Nonprofit Toolkit Setup Script
 # ============================================================
@@ -117,3 +116,49 @@ echo "   • Google: support.google.com/nonprofits"
 echo "   • IRS: irs.gov/charities-non-profits"
 echo "   • OFAC: treasury.gov/ofac"
 echo "==========================================================="
+🖥️ Python.org          - Python 3.8+ runtime
+📦 PyPI.org           - Package Index
+📁 GitHub.com         - Repository hosting
+☁️ Replit.com         - Cloud execution environment
+📊 Google Colab       - Google's cloud notebook
+🟩 GoDaddy.com        - Domain registrar (API available)
+🟦 Squarespace.com    - Domain registrar (ex-Google Domains)
+🟧 Namecheap.com      - Domain registrar (business starter kit)
+🟪 Cloudflare.com     - DNS/security infrastructureecho "      • ORG_NAME: EHESPO International Corporation"
+echo "      • ORG_EMAIL: executive@eheps.com"
+echo "      • DOMAINS: eheps.org,eheps.com"
+echo ""
+echo "   3. Required external actions:"
+echo "      • IRS: File Form 1023-EZ (irs.gov/form1023ez)"
+echo "      • Google: Apply at google.com/nonprofits"
+echo "      • OFAC: Review General Licenses 14-20"
+echo ""
+echo "🚀 Run the toolkit:"
+echo "   source venv/bin/activate"
+echo "   python src/main.py"
+echo ""
+echo "🌍 For Afghanistan humanitarian work:"
+echo "   • OFAC compliance verified (General License 19)"
+echo "   • Legal authorization for NGO operations"
+echo "   • Education/women/youth/environment focus"
+echo ""
+echo "==========================================================="
+echo "📚 SUPPORT RESOURCES:"
+echo "   • GitHub: github.com/YOUR_USERNAME/ehespo-nonprofit-toolkit"
+echo "   • Google: support.google.com/nonprofits"
+echo "   • IRS: irs.gov/charities-non-profits"
+echo "   • OFAC: treasury.gov/ofac"
+echo "==========================================================="
+🔑 developer.godaddy.com - GoDaddy API portal
+📡 DNSPython.org      - DNS resolution library
+📨 requests.readthedocs.io - HTTP library
+🎨 colorama.readthedocs.io - Terminal colors
+📊 tabulate.readthedocs.io - Table formatting
+🌍 EHESPO International Corporation
+📧 executive@eheps.com
+🌐 eheps.org / eheps.com
+🇦🇫 Afghanistan operations (OFAC licensed)
+👧 Girls education & women's empowerment
+💼 Youth employment programs
+🌿 Environmental protection
+💧 Drought relief & humanitarian aid
